@@ -17,7 +17,7 @@ content:
   
   # Email form provider
   form:
-    provider: netlify
+    provider:
     formspree:
       id:
     netlify:
@@ -25,32 +25,28 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: sanjeedlhasan@gmail.com
+  phone: +88-0167-5128-240
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: 2nd Floor,  64/6 Nurjahan Villa, Kochukhet Bou Bazar, North Kafrul
+    city: Dhaka
+    region: 
+    postcode: '1206'
+    country: Bangladesh
+    country_code: BD
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+    latitude: '23.798551432814907'
+    longitude: '90.38728098047842'
+  # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  # office_hours:
+  #   - 'Monday 10:00 to 13:00'
+  #   - 'Wednesday 09:00 to 10:00'
+  # appointment_url: 'https://calendly.com'
   contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+  - icon: skype
+    icon_pack: fab
+    name: sanjeed_hasan
+    link: 
 
 design:
   columns: '2'

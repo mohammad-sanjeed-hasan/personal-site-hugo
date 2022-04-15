@@ -22,29 +22,42 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Senior Mathematics Teacher
+    company: Bijoy International School
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Dhaka, Bangladesh
+    date_start: '2017-11-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+    description:
+  - title: Contractual Lecturer
+    company: Bangladesh University of Business and Technology (BUBT)
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Dhaka, Bangladesh
+    date_start: '2017-06-05'
+    date_end: '2017-10-05'
+    description:
+  - title: Research Associate
+    company: 
+    company_url: ''
+    location: Dhaka, Bangladesh
+    date_start: '2017-07-01'
+    date_end: '2018-06-01'
+    description: |2-
 
-design:
-  columns: '2'
+        * Project Title: Flow Transitions with Effects of Secondary Flow on Convective Heat Transfer through a Rotating Curved Channel.
+        * Supervised By: Prof. Dr. Rabindra Nath Mondal, Dept. of Mathematics, Jagannath University, Dhaka, Bangladesh.
+        * Funded by: Bangladesh Ministry of Science and Technology (MOST).
+  - title: Research Associate
+    company: 
+    company_url: ''
+    location: Dhaka, Bangladesh
+    date_start: '2015-07-01'
+    date_end: '2017-06-01'
+    description: |2-
+
+        * Project Title: Flow Instability with Convective Heat Transfer through a Rotating Curved Micro-Channel with Strong Curvature.
+        * Supervised By: Prof. Dr. Rabindra Nath Mondal, Dept. of Mathematics, Jagannath University, Dhaka, Bangladesh.
+        * Funded by: Bangladesh Ministry of Education (MoEdu).
+
+
 ---
