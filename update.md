@@ -14,6 +14,11 @@ Then delete the public folder if exists! And after that add the submodule by typ
 
 ```console
 git submodule add -f -b master git@git-sanjeed-vai:mohammad-sanjeed-hasan/mohammad-sanjeed-hasan.github.io.git public
+
+or,
+
+
+git submodule add -f -b master https://github.com/mohammad-sanjeed-hasan/mohammad-sanjeed-hasan.github.io.git public
 ```
 
 Now lets push those codes into the repository.
