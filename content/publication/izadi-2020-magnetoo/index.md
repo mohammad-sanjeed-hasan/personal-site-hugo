@@ -1,20 +1,20 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: A computational study on fluid flow and heat transfer through a rotating curved
-  duct with rectangular cross section
+title: Magneto-hydrodynamic flow of micropolar nanofluid containing motile microorganisms
+  passing over a vertical stretching sheet with magnetic field dependent viscosity
 subtitle: ''
 summary: ''
 authors:
-- Rabindra Nath Mondal
-- Mohammad Sanjeed Hasan
-- Mohammad S Islam
-- Md Zohurul Islam
-- Suvash C Saha
+- M Izadi
+- I Shahivand
+- SA Mehryan
+- MS Hasan
+- G Lorenzini
 tags: []
 categories: []
-date: '2021-01-01'
-lastmod: 2022-04-14T22:19:14+02:00
+date: '2020-01-01'
+lastmod: 2022-05-07T19:33:03+02:00
 featured: false
 draft: false
 
@@ -32,9 +32,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-04-14T20:19:14.200282Z'
+publishDate: '2022-05-07T17:33:03.276607Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Journal homepage: http://iieta. org/journals/ijht*'
+publication: '*Journal of Engineering Thermophysics*'
 ---

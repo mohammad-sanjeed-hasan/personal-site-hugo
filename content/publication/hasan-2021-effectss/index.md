@@ -1,18 +1,20 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Coriolis force effect in steady and unsteady flow characteristics with convective
-  heat transfer through a curved square duct
+title: 'Effects of Rotation on Transient Fluid Flow and Heat Transfer Through a Curved
+  Square Duct: The Case of Negative Rotation'
 subtitle: ''
 summary: ''
 authors:
 - Mohammad Sanjeed Hasan
+- Md Tusher Mollah
+- Dipankar Kumar
 - Rabindra Nath Mondal
 - Giulio Lorenzini
 tags: []
 categories: []
-date: '2020-01-01'
-lastmod: 2022-04-14T22:19:15+02:00
+date: '2021-01-01'
+lastmod: 2022-05-07T19:33:02+02:00
 featured: false
 draft: false
 
@@ -30,9 +32,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-04-14T20:19:15.289503Z'
+publishDate: '2022-05-07T17:33:02.694601Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*International Journal*'
+publication: '*International Journal of Applied Mechanics and Engineering*'
 ---
